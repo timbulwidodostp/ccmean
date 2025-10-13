@@ -3,6 +3,8 @@ Calculates estimates of mean cost given censored data Use ccmean (ccostr) With (
 
 Estimates of mean cost with censored data Use ccmean (ccostr) With (In) R Software
 
+https://www.youtube.com/watch?v=dFdcJN_4V3E
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
